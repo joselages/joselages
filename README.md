@@ -1,5 +1,5 @@
-👋 Hi, I’m @joselages<br>
-👀 I’m interested in both design and code.
+Hi, I’m @joselages<br>
+I’m interested in both design and code.
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
