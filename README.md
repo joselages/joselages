@@ -1,5 +1,5 @@
 Hi, I’m @joselages<br>
-I’m interested in both design and code.
+I'm a passionate and versatile Web Developer with a broad range of skills needed to offer a joyful and pleasant web experience.
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
